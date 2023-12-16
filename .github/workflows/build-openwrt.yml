@@ -22,7 +22,7 @@ on:
 env:
   #REPO_URL: https://github.com/coolsnowwolf/lede
   #REPO_BRANCH: master
-  REPO_URL: https://github.com/xhw0525/lede
+  REPO_URL: https://github.com/wbs306/lede.git
   REPO_BRANCH: master
   
   FEEDS_CONF: feeds.conf.default
